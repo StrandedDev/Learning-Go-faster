@@ -1,0 +1,46 @@
+# Go-specific ignore rules
+go.work
+go.work.sum
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+/bin/
+/pkg/
+/dist/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Miscellaneous
+*_test.go
+_test/
+.cgo_debug_switch
+
+# Directories
+/vendor/
+/node_modules/
+/build/
+
+# Files
+.deps
+.BUILD
+INSTALL
+PKG-INFO
+*.pb.*
+*.pb.go
+*.gradle
+!docs/docs.go
