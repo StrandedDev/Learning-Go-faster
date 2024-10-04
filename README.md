@@ -53,6 +53,8 @@ Run below command in cmd or terminal to verify installation.
 ```
 $ go version
 ```
+
+Here is the dedicated folder for installation and my first [hello world]() file.
     
 ## Authors
 
