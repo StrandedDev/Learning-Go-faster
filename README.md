@@ -17,6 +17,8 @@ I will try to learn and document the whole journey in this [*github repo*](https
 
 # Core concepts of  any programming language
 
+- [Installation](#Installing-Go-in-your-machine)
+
 - Variables
 
 - Data types
@@ -42,9 +44,17 @@ I will try to learn and document the whole journey in this [*github repo*](https
 - OOP 
 
 
+## Installing Go in your machine
 
+Head over to the [official downloads page](https://go.dev/doc/install) then download and run the installer file. This will install Go on your machine. 
 
+Run below command in cmd or terminal to verify installation. 
+
+```
+$ go version
+```
+    
 ## Authors
 
-- [Stranded Dev](https://github.com/StrandedDev)
+[Stranded Dev](https://github.com/StrandedDev)
 
