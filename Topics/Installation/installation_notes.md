@@ -23,7 +23,7 @@ func main(){
 
 - There are also more functions to print data such as **print()** , **printf()** .
 
-- It is not necessary to put semicolon after every line but every Go statement can be separated using a semicolon. In that case we can trim off all the whitespace and also create something like this
+- It is not necessary to put semicolon after every line but every Go statement can be separated using a semicolon. In that case we can trim off all the whitespace and also create something like this **one liner**:
 
 ```go
 package main; import ("fmt"); func main() { fmt.Println("Hello World!");}
@@ -37,13 +37,13 @@ package main; import ("fmt"); func main() { fmt.Println("Hello World!");}
 - To **run** the code:
 
 ```bash
-$ go run hello_world.go
+go run hello_world.go
 ```
 
 or to **build** an executable file: 
 
 ```bash
-$ go build hello_world.go
+go build hello_world.go
 ```
 
 
@@ -69,7 +69,7 @@ compiler
 */
 ```
 
-**Tip for vscode**: Use `ctrl` + `/` to comment out the whole line from where the cursor is at. 
+> **Tip for vscode**: Use `ctrl` + `/` to comment out the whole line from where the cursor is at. 
 
 ## Next Section: Variables
 
