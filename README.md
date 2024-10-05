@@ -19,6 +19,7 @@ I will try to learn and document the whole journey in this [*github repo*](https
 
 - [Installation](#Installing-Go-in-your-machine)
     - [Jump to folder &rarr;](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Installation)
+    - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md)
 
 - Variables
 
