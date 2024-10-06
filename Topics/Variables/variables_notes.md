@@ -149,6 +149,6 @@ func main(){
 ## Next section : Data types
 
 
-| ![&larr; Back to hello world](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md) | ![Data types &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md) |
+| [&larr; Back to hello world](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md) | [Data types &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md) |
 |:-|-:|
 
