@@ -132,7 +132,7 @@ c = false               // Assigned outside
 ```
 
 **To check more details about variables:** <br/>
-[Variables folder &rarr;](Topics/Variables) <br/>
+[Variables folder &rarr;](Topics/Variables) 
 [Variables notes &rarr;](Topics/Variables/variables_notes.md)
 
 
@@ -145,5 +145,4 @@ c = false               // Assigned outside
 [Stranded Dev](https://github.com/StrandedDev)
 
 
-## Go : Variables
 
