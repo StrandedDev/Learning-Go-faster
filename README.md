@@ -131,9 +131,9 @@ c = false               // Assigned outside
 
 ```
 
-**To check more details about variables:**
-[Variables folder](Topics/Variables)
-[Variables notes](Topics/Variables/variables_notes.md)
+**To check more details about variables:** <br/>
+[Variables folder &rarr;](Topics/Variables) <br/>
+[Variables notes &rarr;](Topics/Variables/variables_notes.md)
 
 
 
