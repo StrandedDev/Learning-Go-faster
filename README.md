@@ -132,8 +132,10 @@ c = false               // Assigned outside
 ```
 
 **To check more details about variables:** <br/>
-[Variables folder &rarr;](Topics/Variables) 
-[Variables notes &rarr;](Topics/Variables/variables_notes.md)
+
+| ![Variables folder &rarr;](Topics/Variables) | ![Variables notes &rarr;](Topics/Variables/variables_notes.md) |
+|:-:|:-:|
+
 
 
 
