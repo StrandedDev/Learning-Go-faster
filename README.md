@@ -22,6 +22,8 @@ I will try to learn and document the whole journey in this [*github repo*](https
     - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md)
 
 - Variables
+    - [Jump to folder &rarr;](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Variables)
+    - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md)
 
 - Data types
 
@@ -61,4 +63,7 @@ Here is the dedicated folder for [installation](https://github.com/StrandedDev/L
 ## Authors
 
 [Stranded Dev](https://github.com/StrandedDev)
+
+
+## Go : Variables
 
