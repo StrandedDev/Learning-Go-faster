@@ -22,7 +22,6 @@ func main(){
 
 }
 
-
 ```
 
 
@@ -50,7 +49,7 @@ const name type = value;
 ```
 
 
-`Note:`
+**Note:**
 - `const` variables cannot be reassigned or updated. 
 - `const` variables must be initialized and assigned in the same line
 
@@ -60,7 +59,7 @@ const name type = value;
 name := value;
 ```
 
-> `Note:` 
+**Note:**
 - This is a shorthand for creating variables 
 - `var` `const` keywords are not required, also not allowed
 - The variable type gets inferred from the type of data is stored in the variable.
@@ -150,5 +149,6 @@ func main(){
 ## Next section : Data types
 
 
-| [&larr; Back to hello world]("https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md") | [Data types &rarr;]("https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md") |
+| [&larr; Back to hello world]("https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md") | [Data types &rarr;]("https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md") |
 |:-|-:|
+

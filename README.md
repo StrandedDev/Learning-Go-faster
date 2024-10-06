@@ -13,6 +13,27 @@ I will try to learn and document the whole journey in this [*github repo*](https
 |[VS Code](https://code.visualstudio.com/download) | [Official Go plugin](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [Github](https://www.github.com) |
 
 
+# Important 
+
+**The examples below does not have proper imports as well as print functions which may result into errors if you just copy and paste the code without the print functions.**
+
+## View output
+
+```go
+package main
+import "fmt"
+
+func main(){
+
+  var a int = 5
+  var b int = 6  // variables
+
+  fmt.Println(a, b) // output
+
+}
+
+```
+
 
 
 # Core concepts of  any programming language
@@ -21,7 +42,7 @@ I will try to learn and document the whole journey in this [*github repo*](https
     - [Jump to folder &rarr;](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Installation)
     - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md)
 
-- Variables
+- [Variables](#Go:-Variables)
     - [Jump to folder &rarr;](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Variables)
     - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md)
 
@@ -59,6 +80,65 @@ go version
 ```
 
 Here is the dedicated folder for [installation](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Installation) and my first [hello world](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/hello_world.go) file.
+
+
+## Go: Variables
+
+- Variables can be declared by `var` or `const` or `:=` keywords
+- Once defined, the program has to use the variable, unused variables will throw errors in compile time.
+- Const variables cannot be overwritten after initialization. 
+- In loose typing, Go will assign variable type based on the type of value assigned to the variable.
+
+### Variable syntax
+
+```go
+var variableName type = value
+```
+
+**General Example:** 
+
+```go
+
+var age int = 24            // Strict type - type declared
+var name = "John doe"       // Loose type - type not declared - Inferred to string
+const light bool = false    // Constant will have strict type
+education := true           // Does not require keyword or type declaration
+
+```
+
+- Go encourages to explicitly declare the data type of variable while declaration
+- Go supports both loose typing and strict typing method 
+- Go can handle multiple variable declaration with comma separation in single line
+- Go also supports multi-line variable declaration with `var()` method. (Type must be declared explicitly)
+
+**Extended examples:**
+
+```go
+
+var a,b,c int = 1,2,3   // Same type, Multiple variables
+d,e,f := 4,"John",true  // Different type, loose typing
+
+
+var(
+    a int = 5           // Integer 
+    b string = "John"   // String
+    c bool              // Initialized boolean
+)
+
+c = false               // Assigned outside 
+
+
+
+```
+
+**To check more details about variables:**
+[Variables folder](Topics/Variables)
+[Variables notes](Topics/Variables/variables_notes.md)
+
+
+
+
+
     
 ## Authors
 

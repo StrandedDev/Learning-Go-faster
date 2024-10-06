@@ -73,4 +73,4 @@ compiler
 
 ## Next Section: Variables
 
-[Jump to variables notes &rarr;]()
+[Jump to variables notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md)
