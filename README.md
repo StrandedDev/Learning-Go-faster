@@ -42,7 +42,7 @@ func main(){
     - [Jump to folder &rarr;](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Installation)
     - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Installation/installation_notes.md)
 
-- [Variables](#Go:-Variables)
+- [Variables](#Go-Variables)
     - [Jump to folder &rarr;](https://github.com/StrandedDev/Learning-Go-faster/tree/main/Topics/Variables)
     - [Jump to notes &rarr;](https://github.com/StrandedDev/Learning-Go-faster/blob/main/Topics/Variables/variables_notes.md)
 
